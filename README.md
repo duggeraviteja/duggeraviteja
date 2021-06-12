@@ -1,12 +1,9 @@
-<h1> - 👋 Hi, I’m @duggeraviteja <H1>
-  </h1>
+<h1> <b> <i> - 👋 Hi, I’m @duggeraviteja </i> </b> </h1>
     
-    <h5>
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-      </h5>
+    <h5 >
+- 👀 I’m interested in Web Development
+- 📫 How to reach me  https://duggeraviteja.netlify.com/
+    </h5>
 
 <!---
 duggeraviteja/duggeraviteja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
